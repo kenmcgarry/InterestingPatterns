@@ -1,5 +1,5 @@
 # InterestingPatterns
-One of the most insightful definitions of data mining states that to be truly successful data mining should be “the nontrivial process of identifying valid, novel, potentially useful, and ultimately comprehensible knowledge from databases”
+One of the most insightful definitions of data mining states that to be truly successful data mining should be “the nontrivial process of identifying valid, novel, potentially useful, and ultimately comprehensible knowledge from databases” (Fayyad,1997).
 However, to achieve this aim we need to develop the so called "interestingness" measures to overcome certain issues.
 
 The main issue is that the data mining process can generate many hundreds and often thousands of patterns from data. The task for the data miner then becomes one of determining the most useful patterns from those that are trivial or are already well known to the organization.
