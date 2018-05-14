@@ -15,4 +15,4 @@ the most interesting discoveries are those that are unforeseen and surprising i.
 > McGarry, K. A survey of Interestingness Measures for Knowledge Discovery, Knowledge Engineering Review Journal, Vol 20, No 1, 39-61. 2005.
 
 ## The work is just commencing.
-## `Project last update, 7th September 2017.`
+## `Project last update, on-hold for the moment.`
